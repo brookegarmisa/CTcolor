@@ -1,0 +1,4 @@
+pip3 install pydicom
+pip3 install random
+pip3 install matplotlib
+pip3 install PIL
